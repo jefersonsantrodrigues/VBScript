@@ -1,0 +1,2 @@
+# VBScript
+My VBScript agorithms
