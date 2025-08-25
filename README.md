@@ -1,2 +1,2 @@
 # VBScript
-My VBScript agorithms
+Meu repositório de aprendizagem de VBScript
